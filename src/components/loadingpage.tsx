@@ -20,12 +20,6 @@ const LandingPageContainer = styled.div`
     background: rgba(50, 50, 50, 0.0); // Adjust the RGBA values and opacity as needed
     z-index: 1;
   }
-
-//   // Make sure content is above the overlay
-//   > * {
-//     position: relative;
-//     z-index: 2;
-//   }
 `;
 const Navbar = styled.nav`
   display: flex;
